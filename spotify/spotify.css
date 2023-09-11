@@ -1,0 +1,150 @@
+body{
+    margin: 0;
+}
+.header{
+    width: 100%;
+    height: 80px;
+    background-color: black;
+}
+.spotify-logo{
+    width: 132px;
+    margin-left: 384px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.pre{
+    font-size: 16px;
+    margin-top: -32px;
+    color: #fff;
+    margin-left: 1047px;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+.pre:hover{
+    color: green;
+}
+.sup{
+    font-size: 16px;
+    margin-top: -18px;
+    color: #fff;
+    margin-left: 1151px;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+.sup:hover{
+    color: green;
+}
+.dow{
+    font-size: 16px;
+    margin-top: -18px;
+    color: #fff;
+    margin-left: 1251px;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+.dow:hover{
+    color: green;
+}
+.sym{
+    font-size: 19px;
+    margin-top: -22px;
+    color: #fff;
+    margin-left: 1354px;
+    font-family: sans-serif;
+}
+.sign{
+    font-size: 16px;
+    margin-top: -18px;
+    color: #fff;
+    margin-left: 1390px;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+.sign:hover{
+    color: green;
+}
+.log{
+    font-size: 16px;
+    margin-top: -18px;
+    color: #fff;
+    margin-left: 1485px;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+.log:hover{
+    color: green;
+}
+.middle{
+    margin-top: 30px;
+    width: 100%;
+    height: 596px;
+    background: rgb(240,55,166);
+    background: linear-gradient(144deg, rgba(240,55,166,1) 31%, rgba(108,14,224,1) 100%);
+    overflow: hidden;
+}
+.bubble{
+    width: 1603px;
+    margin-left: 156px;
+    margin-top: -152px;
+    
+}
+.phone{
+    margin-top: -509px;
+    margin-left: 451px;
+    position: absolute;
+    height: 550px;
+    width: 285px;
+    background-color: #ffffff;
+    border-radius: 31px;
+  }
+  .speaker{
+    width: 46px;
+    height: 6px;
+    background-color: black;
+    margin-top: -485px;
+    margin-left: 119px;
+    border-radius: 14px;
+  }
+  .display{
+    width: 269px;
+    margin-left: 7px;
+    margin-top: 61px;
+  }
+.Play{
+    width: 32%;
+    color: #fff;
+    margin-left: 834px;
+    margin-top: -442px;
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+  .play{
+    font-weight: bold;
+  }
+  .free{
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-left: 835px;
+    padding-left: 26px;
+    padding-top: 7px;
+    border-radius: 26px;
+    height: 30px;
+    border: #fff;
+    padding-bottom: 9px;
+    width: 161px;
+    cursor: pointer;
+  }
+  .why{
+    margin-left: 847px;
+    margin-top: 693px;
+    font-family: system-ui;
+    font-weight: bold;
+    font-size: 37px;
+  }
